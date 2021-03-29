@@ -22,6 +22,6 @@ Follow the steps below to create your app on
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Select Unsaved  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Select on the folder with today’s Year, then Month, then Day.  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Select the <filename>.csv that you would like to plot. Ignore the file ending in metadata.    
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Note: There are multiple files if you ran multiple queries, just share the CSV you want to plot)  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Copy the “Object URL” from the details panel on the right or from the details page of the file.  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Select Make Public  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  (Note: There are multiple files if you ran multiple queries, just share the CSV you want to plot)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Copy the “Object URL” from the details panel on the right or from the details page of the file.  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  * Select Make Public  
