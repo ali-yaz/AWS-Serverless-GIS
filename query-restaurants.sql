@@ -1,3 +1,4 @@
+-- Select the resturants in Downtown Montreal from Open Street Map (saved as "planet" db on AWS S3 using Athena)
 SELECT lat, lon, tags['name'] as name from planet
 WHERE type = 'node'
 AND tags['amenity'] = 'restaurant'
