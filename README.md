@@ -2,7 +2,7 @@
 
 # Serverless GIS with Amazon S3, OSM, and ArcGIS API for Javascript
 
-The code creates an OSM map view and shows 25 restaurants in Montreal Downtown. 
+The code creates an OSM map view and select 25 restaurants in Montreal and show them on the web, like the map in this ![link](https://serverless-gis-example.s3.ca-central-1.amazonaws.com/index.html). 
 
 The following AWS services are used to create a serverless GIS web app:
 - Amazon S3
