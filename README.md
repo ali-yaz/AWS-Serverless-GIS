@@ -25,4 +25,4 @@ Follow the steps below to create your app on
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  (Note: There are multiple files if you ran multiple queries, just share the CSV you want to plot)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Copy the ```Object URL``` from the details panel on the right or from the details page of the file.  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  * Select ```Make Public```  
---Step 4. 
+
