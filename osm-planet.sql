@@ -1,3 +1,4 @@
+-- Create a table from  osm-pds (using "Registry of Open Data on AWS" )
 CREATE EXTERNAL TABLE planet (
   id BIGINT,
   type STRING,
